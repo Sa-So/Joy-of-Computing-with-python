@@ -14,7 +14,7 @@ print(count)
 
     
 #OR
-#if(a<51):
+#if(a>0 and a<51):
 #  d=int(50/a)
 #  print(d-1)
 #else:
