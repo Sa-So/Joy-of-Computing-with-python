@@ -1,2 +1,3 @@
 # Joy-of-Computing-with-python
-Programming Assignments 
+July 2020 - Dec 2020
+Programming Assignments Solutions
