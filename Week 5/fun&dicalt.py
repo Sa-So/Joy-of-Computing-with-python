@@ -3,4 +3,4 @@ def printdic():
   for i in range(1,n+1):
     m[i]=i*i
   print(m,end='')
-  printdic()
+printdic()
